@@ -1,7 +1,7 @@
 # Erza-Gashi
 
 <h1 align="center">Hi 👋, I'm Erza Gashi</h1>
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning ** NodeJs **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
